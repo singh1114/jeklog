@@ -8,9 +8,16 @@ slug: how-to-create-a-free-blog-using-github-pages-and-jekyll-with-jeklog
 ---
 Hello everyone,
 
+I am writing this post with a mindset that,
+
+*   __It will help you to get a free blog with your own domain name.&nbsp;__
+*   __It will help you to create a free blog with static site generator Jekyll and GitHub Pages.&nbsp;__
+*   __It will answer the question: "How to start a blog or How to create a website for free?".__
+*   __It will help you to kick-start your blogger career.__
+
 Finally, I was able to release the JekLog project after 2-3 months of extensive work. I got the idea to develop such an application when I was writing my blog using GitHub Pages. I have been using Jekyll and Github Pages for almost a year now. I know it's difficult to read and understand MarkDown for the beginners( I know it is easier than HTML but some people still can't write it). Before the use of JekLog application, I was just cloning my website's GitHub repo to my local, made changes by creating the post in MarkDown and pushed everything back to GitHub.&nbsp;
 
-This was how normally I was posting on my GitHub blog, whose address, by the way, is&nbsp;[ranvirsingh.me](http://ranvirsingh.me)
+This was how normally I was posting on my GitHub blog, whose address, by the way, is&nbsp;[blog.ranvirsingh.me](http://blog.ranvirsingh.me)
 
 Now let's stop talking and make the official blog of JekLog.
 

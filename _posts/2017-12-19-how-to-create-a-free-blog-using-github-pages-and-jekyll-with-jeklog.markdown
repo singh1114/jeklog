@@ -15,11 +15,19 @@ I am writing this post with a mindset that,
 *   __It will answer the question: "How to start a blog or How to create a website for free?".__
 *   __It will help you to kick-start your blogger career.__
 
+&nbsp;
+
 Finally, I was able to release the JekLog project after 2-3 months of extensive work. I got the idea to develop such an application when I was writing my blog using GitHub Pages. I have been using Jekyll and Github Pages for almost a year now. I know it's difficult to read and understand MarkDown for the beginners( I know it is easier than HTML but some people still can't write it). Before the use of JekLog application, I was just cloning my website's GitHub repo to my local, made changes by creating the post in MarkDown and pushed everything back to GitHub.&nbsp;
 
-This was how normally I was posting on my GitHub blog, whose address, by the way, is&nbsp;[blog.ranvirsingh.me](http://blog.ranvirsingh.me)
+&nbsp;
+
+This was how normally I was posting on my GitHub blog, whose address, by the way, is&nbsp;[blog.ranvirsingh.me](http://blog.ranvirsingh.me).
+
+&nbsp;
 
 Now let's stop talking and make the official blog of JekLog.
+
+&nbsp;
 
 First of all, you need to browse to JekLog official website but even before that, you need to have a GitHub account with a verified e-mail address. Go to the official website and click on the "Try it Out!" button.
 
@@ -31,6 +39,7 @@ First of all, you need to browse to JekLog official website but even before that
 
 After that, you will be redirected to the page where you can select whether you want to create a new GitHub account or you already have a GitHub account. If you don't have a GH account click on the second option.&nbsp;
 
+&nbsp;
 &nbsp;
 
 <img alt="JekLog registration page" src="https://imgur.com/0CElTr7.png" style="height:364px; width:640px"/>
@@ -54,6 +63,8 @@ Otherwise, if you have a GH account, you can directly click on the following but
 &nbsp;
 
 This will take you to the login option.
+
+&nbsp;
 
 <img alt="JekLog: Login using GitHub" src="https://i.imgur.com/1Qn1NOn.png" style="border-style:solid; border-width:1px; height:364px; width:640px"/>
 
@@ -115,6 +126,12 @@ I like to fill few of these options. You don't need to fill all these options. T
 
 After all this work you might want to see where is your newly created blog. Just find the last option in the user drop-down as&nbsp;visit your blog&nbsp;and click on it to find your blog.
 
+&nbsp;
+
 That's all for today, next time I will show you how to write posts on your blog which is very easy as well.&nbsp;
 
+&nbsp;
+
 There are some bads in the web app. Feel free to share them over to the GitHub issues. Everything can be found on JekLog official website.&nbsp;
+
+&nbsp;

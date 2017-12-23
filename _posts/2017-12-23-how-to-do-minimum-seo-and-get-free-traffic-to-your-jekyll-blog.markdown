@@ -1,7 +1,7 @@
 ---
 author: Ranvir Singh
 comments: true
-date: 2017-12-23 06:40:57.167883
+date: 2017-12-23 20:11:07.918690
 layout: post
 title: How to do minimum SEO and get free traffic to your Jekyll blog
 slug: how-to-do-minimum-seo-and-get-free-traffic-to-your-jekyll-blog
@@ -153,7 +153,7 @@ Now go to the google search console website, add your website and click on verif
 
 &nbsp;
 
-Do share your views using the new commenting system that we have installed using disqus.
+Do share your views using the new commenting system that we have installed using disqus. Have a great day!
 
 &nbsp;
 &nbsp;

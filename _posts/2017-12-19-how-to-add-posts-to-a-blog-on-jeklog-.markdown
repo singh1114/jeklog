@@ -6,6 +6,10 @@ layout: post
 title: How to add posts to a blog on JekLog 
 slug: how-to-add-posts-to-a-blog-on-jeklog-
 ---
+Adding posts to a Jekyll blog has been a tough thing to do. But with JekLog everything is going to be easy. With JekLog we can easily create blogs and write posts for our easily. The content will be transferred directly to the files on the GitHub and the changes can be seen by everywhere in the world.
+
+&nbsp;
+
 Hello everyone,
 
 I am back with another post. In this post, I would discuss the very basic way of creating your first post using JekLog.&nbsp;

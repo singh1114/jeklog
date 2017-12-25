@@ -6,6 +6,15 @@ layout: post
 title: How to create a free blog using GitHub Pages and Jekyll with Jeklog
 slug: how-to-create-a-free-blog-using-github-pages-and-jekyll-with-jeklog
 ---
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+JekLog is a blogging platform created to launch Jekyll blogs in few clicks and host it using GitHub pages. If you want to start a free blog using Jekyll, you are at a right place.
+
+&nbsp;
+
 Hello everyone,
 
 I am writing this post with a mindset that,

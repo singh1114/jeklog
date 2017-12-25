@@ -6,9 +6,7 @@ layout: post
 title: How to do minimum SEO and get free traffic to your Jekyll blog
 slug: how-to-do-minimum-seo-and-get-free-traffic-to-your-jekyll-blog
 ---
-Welcome back to the JekLog blog. I am back with another post related to the Jekyll blogs.
-
-We all know that the search engine traffic is most amazing traffic that one can get on your content. The traffic generated using search engine optimisation tools( SEO tools) will provide you the traffic which is more sustainable and will increase your leads too. Talking about SEO is like talking about Google, as we all know that Google is the most important search engine out there.&nbsp;
+Welcome back to the JekLog blog. I am back with another post related to the Jekyll blogs. We all know that the search engine traffic is most amazing traffic that one can get on your content. The traffic generated using search engine optimisation tools( SEO tools) will provide you the traffic which is more sustainable and will increase your leads too. Talking about SEO is like talking about Google, as we all know that Google is the most important search engine out there.&nbsp;
 
 &nbsp;
 
